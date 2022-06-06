@@ -1,6 +1,8 @@
 # MSDS 462-DL Final Project
 Final edge AI project repository
 
+![Inference examples](https://github.com/anrobr/MSDS_462-DL-Final_Project/blob/main/header_image.png?raw=true)
+
 ### Repository Contents
 
 * documentation
