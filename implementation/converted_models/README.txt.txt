@@ -1,0 +1,1 @@
+Folder contains the models after being converted to the intermediate representation of OpenVINO for deployment on an edge device.
